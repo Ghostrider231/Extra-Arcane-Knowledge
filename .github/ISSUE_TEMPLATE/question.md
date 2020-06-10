@@ -1,7 +1,7 @@
 ---
 name: Question
 about: Question about the mod
-title: "[Title of the bug report]"
+title: "[Title of the question]"
 labels: question
 assignees: ''
 
