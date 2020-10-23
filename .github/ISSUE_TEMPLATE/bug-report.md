@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-Extra Arcane Knowledge version: 0.6-alpha [change as necessary]  
-Wizardry version: 4.2.11 [change as necessary]
+Extra Arcane Knowledge version: 0.7-alpha [change as necessary]  
+Wizardry version: 4.3 [change as necessary]
 Erebus version: 1.0.31 [change as necessary]
 Potion core version: 1.9 [change as necessary]
 
